@@ -1,0 +1,26 @@
+    <section class="wrap" id="works">
+      <div class="section-head">
+        <div>
+          <div class="accent-line"></div>
+          <h2>منتخب نمونه‌کارها</h2>
+        </div>
+      </div>
+
+      <div class="grid">
+        <article class="work">
+          <div class="video">
+	    <iframe
+ 	     src="لینک"
+ 	     title="نمونه‌کار اول"
+ 	     allowfullscreen
+  	     loading="lazy">
+	     </iframe>
+          </div>
+          <div class="work-info">
+            <h3>Crushed truck</h3>
+            <p>متن اول
+	    <br>متن دوم</p>
+            <span class="tag">تدیوین</span>
+          </div>
+        </article>
+      </div>
